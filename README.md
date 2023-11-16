@@ -18,14 +18,17 @@
 > 本代码来源于网络,仅供学习参考使用,请入群(123300273)后联系群主索要sql文件!
 >
 > 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
+> 
+> 前端首页: http://localhost:8080/springbootx0gy2/front/index.html
+>
+> 前端登录: http://localhost:8080/springbootx0gy2/front/pages/login/login.html
+>
+> 用户: 用户名: user  密码: 123456
+>
+> 后端登录: http://localhost:8080/springbootx0gy2/admin/dist/index.html#/index
+>
+> 管理员: 用户名: admin 密码: 123456
 
->访问路径
->
-> http://localhost:8080/springbootx0gy2/front/index.html
->
-> http://localhost:8080/springbootx0gy2/admin/dist/index.html#/index
->
-> 密码 : abo abo
 
 
 ## 环境
@@ -57,7 +60,7 @@
 
 ##### [个人站点: 全栈九九六(Java全栈知识资料下载)](https://www.blog996.com/)
 ##### [个人博客: 博客园精品博客](https://www.cnblogs.com/yysbolg/)
-##### [更多论文: 全目录查看](https://www.blog996.com/md/2021-09-22-1632317852192.html)
+# [更多论文: 全目录查看](https://www.blog996.com/md/2021-09-22-1632317852192.html)
 
 
 
